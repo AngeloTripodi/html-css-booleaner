@@ -12,3 +12,22 @@
     margin-top: 80px;
     margin-left: 10px;
 }
+
+h1{
+    font-size: 4.5rem;
+    margin: 20px 0 0 0;
+}
+
+.greytext{
+    color: grey;
+    font-size: 1.4rem;
+    margin: auto;
+}
+
+.greytext.date{
+    font-size: 1rem;
+}
+
+#bluetext{
+    color: #4EA0FF;
+}
