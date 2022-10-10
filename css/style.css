@@ -7,6 +7,10 @@
     
 }
 
+.fontbig{
+    font-size: 1.4rem;
+}
+
 #logobool{
     height: 80px;
     margin-top: 80px;
@@ -20,7 +24,6 @@ h1{
 
 .greytext{
     color: grey;
-    font-size: 1.4rem;
     margin: auto;
 }
 
@@ -41,4 +44,41 @@ h1{
 }
 #img2{
     width: 44.5%;
+}
+
+#img-section p{
+    margin: auto;
+}
+
+.highlited-yellow{
+    background-color: yellow;
+}
+
+#ullist{
+    padding-left: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+table{
+    width: 100%;
+    border-collapse:collapse;
+}
+
+.t1{
+    width: 25%;
+}
+
+.t2{
+    width: 50%;
+}
+
+#theadblue{
+    background-color: #4EA0FF;
+    color: white;
+    font-weight: 600;
+}
+
+.bgblue{
+    background-color: #B1E5F2;
 }
