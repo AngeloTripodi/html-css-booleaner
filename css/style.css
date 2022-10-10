@@ -1,0 +1,14 @@
+.img-background{
+    width: 100%;
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    background-repeat: repeat-x;
+    
+}
+
+#logobool{
+    height: 80px;
+    margin-top: 80px;
+    margin-left: 10px;
+}
