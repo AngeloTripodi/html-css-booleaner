@@ -82,3 +82,28 @@ table{
 .bgblue{
     background-color: #B1E5F2;
 }
+
+footer{
+    margin-top: 40px;
+}
+#first-image-footer{
+    background-image: url(../img/monitor.jpg);
+}
+
+#second-image-footer{
+    background-image: url(../img/graph.jpg);
+}
+
+.section-link-footer{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 270px;
+    width: 270px;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: white;
+    font-weight: 600;
+    margin-top: 15px;
+
+}
